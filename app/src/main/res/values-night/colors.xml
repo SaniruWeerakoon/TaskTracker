@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#08457e</color> <!-- Signature Blue -->
+    <color name="accentColor">#40e0d0</color>  <!-- Accent Turquoise -->
+    <color name="backgroundColor">#282828</color> <!-- Dark Background -->
+    <color name="textColor">#FFFFFF</color> <!-- White Text -->
+
+
+    <color name="overlayColor">#80000000</color> <!-- 50% Transparent Black -->
+
+</resources>
